@@ -1,4 +1,4 @@
-package Exercicíos;
+package ExercicÃ­os;
 
 import java.util.Scanner;
 
@@ -15,7 +15,7 @@ public class num6 {
 		
 		int lt = mc * 1000;
 		
-		System.out.println("A medida em litros da caixa d'agua é " + lt);
+		System.out.println("A medida em litros da caixa d'agua Ã© " + lt);
 
 		ler.close();
 	}
