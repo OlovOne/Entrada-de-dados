@@ -1,4 +1,4 @@
-package Exercicíos;
+package ExercicÃ­os;
 
 import java.util.Scanner;
 
@@ -15,7 +15,7 @@ public class num7 {
 		a = b;
 		b = aux;
 		
-		System.out.println("O valor atual de A é " + a + " e o de B é " + b);
+		System.out.println("O valor atual de A Ã© " + a + " e o de B Ã© " + b);
 
 		ler.close();
 	}
